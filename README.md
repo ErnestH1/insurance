@@ -52,5 +52,7 @@ Once the API server is running, users can access it using a web browser or tools
 Users can make predictions by sending HTTP requests to the API endpoints defined in the FastAPI application. 
 
 
+Happy Coding
+
 
 
